@@ -1,0 +1,19 @@
+theme = "autumn_night"
+
+[editor]
+line-number = "relative"
+cursorline = true
+
+[editor.indent-guides]
+render = true
+character = "╎"
+skip-levels = 1
+
+[editor.soft-wrap]
+enable = true
+wrap-indicator = ""  # set wrap-indicator to "" to hide it
+
+[editor.gutters.line-numbers]
+min-width = 1
+
+

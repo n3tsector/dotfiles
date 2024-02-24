@@ -1,0 +1,3 @@
+main/.gpg/
+main/.ssh/*
+!main/.ssh/config

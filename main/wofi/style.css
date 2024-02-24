@@ -1,0 +1,30 @@
+* {
+    border-radius: 3px;
+    border: none;
+}
+
+window {
+    font-family: "Hack Nerd Font";
+    background-color: rgba(50, 50, 50, 0.9);
+    color: white;
+    border-bottom: 3px solid #f6f6f6;
+}
+
+#entry {
+    padding: 0.25em;
+}
+
+#entry:selected {
+    background-color: #bbccdd;
+    background: linear-gradient(90deg, rgba(100, 200, 150, 0.9), rgba(200, 200, 200, 0.3));
+}
+
+#text:selected {
+    color: #333333;
+}
+
+#input {
+    background-color: rgba(50, 50, 50, 0.5);
+    color: white;
+    padding: 0.25em;
+}
